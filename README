@@ -1,0 +1,9 @@
+Daniel Monarrez
+Stock Counter Program
+Work in progress
+
+
+Program showcases simple implementation of flask http requests using alpha advantage api,
+user inputs stock symbol and price is returend
+
+Flask is used to display the pages
